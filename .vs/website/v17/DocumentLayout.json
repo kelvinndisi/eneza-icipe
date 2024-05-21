@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Ezena\\Websites\\website\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\Ezena\\Websites\\website\\contact.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:contact.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\Ezena\\Websites\\website\\Internships.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Internships.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\Ezena\\Websites\\website\\Residential-training.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Residential-training.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\Ezena\\Websites\\website\\Workshops.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Workshops.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\Ezena\\Websites\\website\\Seminars.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Seminars.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\Ezena\\Websites\\website\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "contact.html",
+              "DocumentMoniker": "F:\\Ezena\\Websites\\website\\contact.html",
+              "RelativeDocumentMoniker": "contact.html",
+              "ToolTip": "F:\\Ezena\\Websites\\website\\contact.html",
+              "RelativeToolTip": "contact.html",
+              "ViewState": "AQIAAL4AAAAAAAAAAADwv/sAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-05-21T02:06:49.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Internships.html",
+              "DocumentMoniker": "F:\\Ezena\\Websites\\website\\Internships.html",
+              "RelativeDocumentMoniker": "Internships.html",
+              "ToolTip": "F:\\Ezena\\Websites\\website\\Internships.html",
+              "RelativeToolTip": "Internships.html",
+              "ViewState": "AQIAAJwAAAAAAAAAAADwv9kAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-05-21T02:06:26.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Residential-training.html",
+              "DocumentMoniker": "F:\\Ezena\\Websites\\website\\Residential-training.html",
+              "RelativeDocumentMoniker": "Residential-training.html",
+              "ToolTip": "F:\\Ezena\\Websites\\website\\Residential-training.html",
+              "RelativeToolTip": "Residential-training.html",
+              "ViewState": "AQIAAJ0AAAAAAAAAAADwv9oAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-05-21T02:06:02.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Workshops.html",
+              "DocumentMoniker": "F:\\Ezena\\Websites\\website\\Workshops.html",
+              "RelativeDocumentMoniker": "Workshops.html",
+              "ToolTip": "F:\\Ezena\\Websites\\website\\Workshops.html",
+              "RelativeToolTip": "Workshops.html",
+              "ViewState": "AQIAAJ4AAAAAAAAAAADwv9sAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-05-21T02:05:40.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Seminars.html",
+              "DocumentMoniker": "F:\\Ezena\\Websites\\website\\Seminars.html",
+              "RelativeDocumentMoniker": "Seminars.html",
+              "ToolTip": "F:\\Ezena\\Websites\\website\\Seminars.html",
+              "RelativeToolTip": "Seminars.html",
+              "ViewState": "AQIAAKcAAAAAAAAAAADwv+QAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-05-21T02:04:43.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "index.html",
+              "DocumentMoniker": "F:\\Ezena\\Websites\\website\\index.html",
+              "RelativeDocumentMoniker": "index.html",
+              "ToolTip": "F:\\Ezena\\Websites\\website\\index.html",
+              "RelativeToolTip": "index.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-05-17T13:55:23.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
